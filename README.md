@@ -3,7 +3,7 @@
 Proud to present **Flavour Haven**! This project is a food ordering app designed with two interfaces - one for the user to browse, order, and review foods, and another for admins to manage the app’s content and track analytics.
 
 ## 🌟 User Side Features
-* **Categorized Foods**: Browse meals by category like meat, chicken, pizza, desserts, etc.
+* **Categorized Foods**: Browse meals by category like meat, chicken, pizza, desserts and more.
 * **Save Favorites**: Save foods you love for easy access.
 * **Top 5 Recommendations**: Check out the most popular foods.
 * **Food Search**: Easily search for specific items.
