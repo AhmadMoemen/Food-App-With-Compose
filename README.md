@@ -99,4 +99,4 @@ Proud to present **Flavour Haven**! This project is a food ordering app designed
 ---
 
 ### 📬 Contact
-For questions or feedback, reach out via LinkedIn: (https://www.linkedin.com/in/ahmed-emad-%F0%9F%87%B5%F0%9F%87%B8-010a52262/)
+For questions or feedback, reach out via LinkedIn : (https://www.linkedin.com/in/ahmed-emad-%F0%9F%87%B5%F0%9F%87%B8-010a52262/)
