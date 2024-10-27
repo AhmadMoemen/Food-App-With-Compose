@@ -1,4 +1,4 @@
-#🍽️ Food App With Compose 📲
+# 🍽️ Food App With Compose 📲
 
 Proud to present **Flavour Haven**! This project is a food ordering app designed with two interfaces - one for the user to browse, order, and review foods, and another for admins to manage the app’s content and track analytics.
 
